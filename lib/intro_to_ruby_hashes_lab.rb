@@ -1,5 +1,5 @@
 def my_hash_creator(key, value)
-  my_has_creator={
+  my_hash_creator={
     :name=>"Grace Hopper"  
   }
   
